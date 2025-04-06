@@ -40,7 +40,10 @@ I designed and developed an **interactive POWER-BI dashboard** to analyze pizza 
 ### **🔧 Interactive Slicers**
 - **⏱️ Time**: Month/Day filters  
 - **🗂️ Attributes**: Category, Payment-Mode, Order-Type, Spice-Level, Size  
-- **🏷️ Discount Status**: Promotional impact analysis  
+- **🏷️ Discount Status**: Promotional impact analysis
+## Dashboard Interaction
+- **Interactive Dashboard:** [Home Store Sales Performance Dashboard](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Pizza%20Performance%20Project.pbix)
+  - The dashboard is equipped with **slicers** and **dynamic filters** to allow users to interact with the data and gain insights based on specific criteria.
 ## Dashboard Screenshot
 - **Dashboard Preview:** [Dashboard Picture Section-A](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-A.jpg)
 ![Pizza Performance Dashboard Section-A](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-A.jpg)
