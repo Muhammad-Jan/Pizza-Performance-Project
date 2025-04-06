@@ -8,19 +8,39 @@ I designed and developed an **interactive POWER-BI dashboard** to analyze pizza 
 [Order_details, ](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/order_details.csv)
 [Pizza_Types, ](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/pizza_types.csv)
 [Pizzas](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/pizzas.csv)
-## Key Performance Indicators (KPIs)
-1.	**Month-wise Orders:** Track total orders received each month.
-2.	**Repeat Customers Percentage:** Analyze % of returning customers.
-3.	**Category-wise Sales:** Compare revenue across pizza categories (Veg/Non-Veg/Spicy).
-4.	**Month-wise Revenue & Expenses:** Visualize profit trends and cost fluctuations.
-5.	**Yearly Revenue:** Summarize total annual earnings.
-6.	**Top 5 Pizzas:** Identify best-selling pizzas by quantity/revenue.
-7.	**Average Order Value:** Calculate average spending per order.
-8.	**Inventory vs. Demand:** Compare ingredient stock with pizza sales.
-9.	**Payment Mode Split:** Analyze usage of Cash/Card/Online payments.
-10.	**Spice Preference:** Measure popularity of Mild/Medium/Spicy pizzas.
-11.	**Order-Type Performance:** Compare Dine-in vs Delivery demand.
-12.	**Customer Satisfaction Trends:** Monitor ratings linked to order types/times.
+## **📊 Key Performance Indicators (KPIs)**
+
+### **📌 Core Metrics**
+1. **💰 Total Profit**: Revenue minus Expenses  
+2. **👥 Distinct Customers**: Unique customer count  
+3. **🛒 Total Sold Qty**: Sum of pizzas ordered  
+4. **📈 Total Revenue**: Gross sales value  
+5. **💸 Total Expense**: Operational costs  
+6. **📦 Total Orders**: Count of all orders  
+
+### **⏰ Time-Based Trends**
+- **🕒 24-Hour Order Trending**: Peak/off-peak demand hours  
+- **📆 Month-wise Revenue vs Expenses**: Profitability by month  
+- **🗓️ Weekly/Monthly Rating Drops**: E.g., "Weekend rush = 15% lower ratings"  
+
+### **🍕 Product Analysis**
+- **🏆 Top 5 Products**: Highest-selling pizzas  
+- **📏 Size-wise Orders**: Small/Medium/Large demand  
+- **🌶️ Spicy Orders**: Mild/Medium/Hot preference ratio  
+
+### **💳 Transaction Insights**
+- **🔢 Order-Type Count**: Dine-in vs Delivery vs Takeaway  
+- **💵 Payment-Mode Split**: Cash/Card/Online distribution  
+
+### **🎯 Customer & Category**
+- **⭐ Order-wise Satisfaction**: Rating trends per order type  
+- **📊 Category-wise Revenue**: Veg/Non-Veg/Spicy performance  
+- **👤 Customer Segments**: Loyal vs one-time buyer behavior  
+
+### **🔧 Interactive Slicers**
+- **⏱️ Time**: Month/Day filters  
+- **🗂️ Attributes**: Category, Payment-Mode, Order-Type, Spice-Level, Size  
+- **🏷️ Discount Status**: Promotional impact analysis  
 
 
 
