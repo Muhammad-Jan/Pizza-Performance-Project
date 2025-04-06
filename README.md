@@ -43,9 +43,9 @@ I designed and developed an **interactive POWER-BI dashboard** to analyze pizza 
 - **🏷️ Discount Status**: Promotional impact analysis  
 ## Dashboard Screenshot
 - **Dashboard Preview:** [Dashboard Picture Section-A](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-A.jpg)
-![Pizza Performance Dashboard Section-A](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-B.jpg)
+![Pizza Performance Dashboard Section-A](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-A.jpg)
 - **Dashboard Preview:** [Dashboard Picture Section-B]( https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-B.jpg)
-
+![Pizza Performance Dashboard Picture Section-B](https://github.com/Muhammad-Jan/Pizza-Performance-Project/blob/main/Dashboard%20Section-B.jpg)
 
 
 
